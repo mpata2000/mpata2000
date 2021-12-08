@@ -43,3 +43,5 @@
 ### **Stats:**
 
 [![Mpata2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpata2000&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- For more themes https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
