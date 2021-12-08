@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/martinpata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin_pata" height="30" width="40" /></a>
 <a href="https://instagram.com//martin_pata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_pata" height="30" width="40" /></a>
 
-</br>
 
 ### **Languages and Tools:**
 <p align="left">
@@ -37,8 +36,8 @@
 <img height="40px" src="https://geekflare.com/wp-content/uploads/2019/07/fast-api-logo.png"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpata2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpata2000&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Mpata2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpata2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Mpata2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpata2000&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
