@@ -10,7 +10,7 @@
 ### 🔗 **Connect with me:**
 
 <a href="https://linkedin.com/in/martinpata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin_pata" height="30" width="40" /></a>
-<a href="https://instagram.com//martin_pata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_pata" height="30" width="40" /></a>
+<a href="https://instagram.com/martin_pata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_pata" height="30" width="40" /></a>
 
 
 ### **Languages and Tools:**
