@@ -6,7 +6,7 @@
 - I am a software engineering student at Universidad de Buenos Aires
 - Also known as Patineta🛹 or Patson
 - I post some of my summaries at <a href="https://gitlab.com/mpata2000" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" height="15"></a> 
-- Java developer at Eldar
+- Golang Developer at MELI
 - Always trying to learn new things
 
 ### 🔗 **Connect with me:**
